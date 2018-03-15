@@ -5,6 +5,8 @@ This repositories contains some interesting plots and visualizations like :
 Random Walk, Sierpinski Triangle, Animated Trajectory path (given its initial velocity and angle of inclination), 
 Barnsley Fern, Golden Ratio, etc.
 
+I will add more such plots, and I am also going to include their **ipython notebooks** for more better visualizations.
+
 ### How to run
 These scripts are written in Python 3 using matplotlib library.
 To run these scripts, fork the repository and clone and run these as:
